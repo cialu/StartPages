@@ -1,8 +1,8 @@
 # StartPages
 
-Some startpages for web browser.
+Some candy startpages for web browsers.
 
-https:cialu.net
+[CIALU.NET](https:cialu.net)
 
-/r/startpages 
+[/r/startpages](https://www.reddit.com/r/startpages/)
 
